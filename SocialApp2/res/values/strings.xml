@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Social App</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string-array name="main_menu">
+        <item>Click for Menu</item>
+        <item>View Popular Searches</item>
+        <item>Options</item>
+        <item>About</item>
+        
+    </string-array>
+    
+    <string name="menu_prompt">Menu</string>
+</resources>
