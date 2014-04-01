@@ -61,7 +61,7 @@ public class PopularSearches extends Activity{
         		
         		
                 HttpClient httpclient = new DefaultHttpClient();
-				HttpPost httppost = new HttpPost("http://server1.mewtwo.net/~arjit/SocialApp/getqueries.php");
+				HttpPost httppost = new HttpPost("Your PHP file here to return a list of queries as JSON");
 
 				queries=new ArrayList<String>();
                 // Instantiate a GET HTTP method
